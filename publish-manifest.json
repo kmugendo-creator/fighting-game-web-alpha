@@ -1,0 +1,81 @@
+﻿{
+    "schema":  "web-alpha-pages-payload/v1",
+    "generated_at_utc":  "2026-09-06T04:40:17.6148171Z",
+    "source_commit":  "536a07f3d2c298debff2256904643a7516c40650",
+    "source_repository_published":  false,
+    "generated_web_payload_only":  true,
+    "files":  [
+                  {
+                      "path":  "site/index.apple-touch-icon.png",
+                      "bytes":  11939,
+                      "restored_name":  "index.apple-touch-icon.png",
+                      "restored_bytes":  11939
+                  },
+                  {
+                      "path":  "site/index.apple-touch-icon.png.import",
+                      "bytes":  990,
+                      "restored_name":  "index.apple-touch-icon.png.import",
+                      "restored_bytes":  990
+                  },
+                  {
+                      "path":  "site/index.audio.position.worklet.js.gz",
+                      "bytes":  1199,
+                      "restored_name":  "index.audio.position.worklet.js",
+                      "restored_bytes":  2973
+                  },
+                  {
+                      "path":  "site/index.audio.worklet.js.gz",
+                      "bytes":  2227,
+                      "restored_name":  "index.audio.worklet.js",
+                      "restored_bytes":  7298
+                  },
+                  {
+                      "path":  "site/index.html",
+                      "bytes":  5454,
+                      "restored_name":  "index.html",
+                      "restored_bytes":  5454
+                  },
+                  {
+                      "path":  "site/index.icon.png",
+                      "bytes":  5765,
+                      "restored_name":  "index.icon.png",
+                      "restored_bytes":  5765
+                  },
+                  {
+                      "path":  "site/index.icon.png.import",
+                      "bytes":  954,
+                      "restored_name":  "index.icon.png.import",
+                      "restored_bytes":  954
+                  },
+                  {
+                      "path":  "site/index.js.gz",
+                      "bytes":  68749,
+                      "restored_name":  "index.js",
+                      "restored_bytes":  279815
+                  },
+                  {
+                      "path":  "site/index.pck.gz",
+                      "bytes":  23042629,
+                      "restored_name":  "index.pck",
+                      "restored_bytes":  164929548
+                  },
+                  {
+                      "path":  "site/index.png",
+                      "bytes":  21443,
+                      "restored_name":  "index.png",
+                      "restored_bytes":  21443
+                  },
+                  {
+                      "path":  "site/index.png.import",
+                      "bytes":  939,
+                      "restored_name":  "index.png.import",
+                      "restored_bytes":  939
+                  },
+                  {
+                      "path":  "site/index.wasm.gz",
+                      "bytes":  10114302,
+                      "restored_name":  "index.wasm",
+                      "restored_bytes":  39514754
+                  }
+              ]
+}
