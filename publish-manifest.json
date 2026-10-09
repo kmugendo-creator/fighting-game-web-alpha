@@ -1,7 +1,7 @@
 ﻿{
     "schema":  "web-alpha-pages-payload/v1",
-    "generated_at_utc":  "2026-10-08T12:14:37.9140414Z",
-    "source_commit":  "a6bdeb9436f8e4ef1650b6155e1882d4b7a127de",
+    "generated_at_utc":  "2026-10-09T07:21:38.9919749Z",
+    "source_commit":  "5be665852f63ca81a55a67aa6f6c9970dfb70019",
     "source_repository_published":  false,
     "generated_web_payload_only":  true,
     "files":  [
@@ -25,9 +25,9 @@
                   },
                   {
                       "path":  "site/index.html",
-                      "bytes":  5678,
+                      "bytes":  5818,
                       "restored_name":  "index.html",
-                      "restored_bytes":  5678
+                      "restored_bytes":  5818
                   },
                   {
                       "path":  "site/index.icon.png",
@@ -43,9 +43,9 @@
                   },
                   {
                       "path":  "site/index.pck.gz",
-                      "bytes":  3632363,
+                      "bytes":  3636063,
                       "restored_name":  "index.pck",
-                      "restored_bytes":  20098492
+                      "restored_bytes":  20102604
                   },
                   {
                       "path":  "site/index.png",
@@ -58,6 +58,12 @@
                       "bytes":  10114302,
                       "restored_name":  "index.wasm",
                       "restored_bytes":  39514754
+                  },
+                  {
+                      "path":  "site/web_alpha_full_viewport_touch.js.gz",
+                      "bytes":  886,
+                      "restored_name":  "web_alpha_full_viewport_touch.js",
+                      "restored_bytes":  2430
                   }
               ]
 }
